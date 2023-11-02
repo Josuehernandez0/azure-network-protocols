@@ -136,7 +136,7 @@ Next let the deployment process load, once its done a green check will emerge ne
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ZZ3BWcB.png"/>
 </p>
 <p>
 Next go type Virtual Machine and click VM1
@@ -144,7 +144,7 @@ Next go type Virtual Machine and click VM1
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ubc6Uvd.png"/>
 </p>
 <p>
 Now click create Azure Virtual Machine 
@@ -152,7 +152,7 @@ Now click create Azure Virtual Machine
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/IUz7pkb.png"/>
 </p>
 <p>
 Next click the Resource group name under RG-LAB-02, the Vritual Machine Name under VM2 and the region US WEST US 3
@@ -160,7 +160,7 @@ Next click the Resource group name under RG-LAB-02, the Vritual Machine Name und
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/pr6KRhh.png"/>
 </p>
 <p>
 Now for the Image put Ubuntu Sever Gen2 and the size under Standard E2
@@ -168,7 +168,7 @@ Now for the Image put Ubuntu Sever Gen2 and the size under Standard E2
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/QJk8zIO.png"/>
 </p>
 <p>
 Next for the authentication type click password, under Username type labuser and the password tpye the password

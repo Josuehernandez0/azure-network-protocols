@@ -52,7 +52,7 @@ First go to Microsoft Azure and type Resource Groups in the search bar
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/fPLfxWy.png"/>
 </p>
 <p>
 Next for the Resource Group name type RG-LAB-02 and the region under US West US 3
@@ -60,7 +60,7 @@ Next for the Resource Group name type RG-LAB-02 and the region under US West US 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/vkTmURS.png"/>
 </p>
 <p>
 Then go to the Review and Create section and let the validation passed
@@ -68,7 +68,7 @@ Then go to the Review and Create section and let the validation passed
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/E7v2NEU.png"/>
 </p>
 <p>
 Now go back to Resource Groups and you will see it was created
@@ -76,7 +76,7 @@ Now go back to Resource Groups and you will see it was created
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/fxW59Tg.png"/>
 </p>
 <p>
 Type Virtual Machines in the search bar
@@ -85,7 +85,7 @@ Type Virtual Machines in the search bar
 
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/9Su1ocz.png"/>
 </p>
 <p>
 Now for the Resource Group click the one we created RG-LAB-02.
@@ -93,7 +93,7 @@ Now for the Resource Group click the one we created RG-LAB-02.
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/FjP17Gw.png"/>
 </p>
 <p>
 Next type the VM name VM1, and the region under US West US 3, the Image under Windows 10 Pro, and the size under Standard E2s
@@ -101,7 +101,7 @@ Next type the VM name VM1, and the region under US West US 3, the Image under Wi
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/g9wTXn4.png"/>
 </p>
 <p>
 Next the username will be named labuser and the password can be your own unique password. The Licensing check the box
@@ -109,7 +109,7 @@ Next the username will be named labuser and the password can be your own unique 
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ZVYz36f.png"/>
 </p>
 <p>
 Now go to the Networking tab and make sure the Virtual Network, Subnet, and Public IP all says (new)
@@ -117,7 +117,7 @@ Now go to the Networking tab and make sure the Virtual Network, Subnet, and Publ
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/BjbNgJc.png"/>
 </p>
 <p>
 Now go to the Review and create tab and click the Create tab on the bottom left
@@ -125,10 +125,10 @@ Now go to the Review and create tab and click the Create tab on the bottom left
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Ox6FroE.png"/>
 </p>
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/rUvjWGu.png"/>
 </p>
 <p>
 Next let the deployment process load, once its done a green check will emerge near the deployment

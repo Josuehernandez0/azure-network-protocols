@@ -44,7 +44,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/arfiadH.png"/>
 </p>
 <p>
 First go to Microsoft Azure and type Resource Groups in the search bar

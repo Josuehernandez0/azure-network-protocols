@@ -176,7 +176,7 @@ Next for the authentication type click password, under Username type labuser and
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/2tYkXUl.png"/>
 </p>
 <p>
 Now go to the networking tab and make sure virtual network, subent, and public IP all says (new)
@@ -184,7 +184,7 @@ Now go to the networking tab and make sure virtual network, subent, and public I
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/x6KFSKS.png"/>
 </p>
 <p>
 Next go to the Review and create tab and click create at the bottom left
@@ -192,10 +192,10 @@ Next go to the Review and create tab and click create at the bottom left
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/wiOnifE.png"/>
 </p>
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/KuxOylj.png"/>
 </p>
 <p>
 Now the deployment process will begin. Then once it's done a green check will appear
@@ -204,7 +204,7 @@ Now the deployment process will begin. Then once it's done a green check will ap
 
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/NIJj3qn.png"/>
 </p>
 <p>
 Next you can upload all the info in a notepad file
@@ -212,7 +212,7 @@ Next you can upload all the info in a notepad file
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/kFWfFBb.png"/>
 </p>
 <p>
 Next type Virtual Machine in the search bar
@@ -220,7 +220,7 @@ Next type Virtual Machine in the search bar
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/MogctZ2.png"/>
 </p>
 <p>
 <img src=""/>
